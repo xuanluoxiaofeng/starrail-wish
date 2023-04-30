@@ -1,5 +1,8 @@
 # 星穹铁道祈愿记录导出工具
 
+！！！ 本工具为修改了@biuuu大佬的genshin-wish-export而来，临时使用，本人为萌新，勿喷
+基础功能本人测试可用，具体得看其他大佬们的重构版祈愿记录导出
+
 中文 | [English]
 
 一个使用 Electron 制作的小工具，需要在 Windows 64位操作系统上运行。
@@ -12,26 +15,10 @@
 
 ## 使用说明
 
-1. 下载工具后解压 - 下载地址: [Github](https://github.com/biuuu/genshin-wish-export/releases/latest/download/Genshin-Wish-Export.zip) / [蓝奏云](https://wwvt.lanzoum.com/iEmVZ0i4srle)
+1. 下载工具后解压 - 下载地址: [Github](https://github.com/xuanluoxiaofeng/starrail-wish/releases)
 2. 打开游戏的祈愿历史记录
-
-   ![祈愿历史记录](/docs/wish-history.png)
 3. 点击工具的“加载数据”按钮
-
-   ![加载数据](/docs/load-data.png)
-
-   如果没出什么问题的话，你会看到正在读取数据的提示，最终效果如下图所示
-
-   <details>
-    <summary>展开图片</summary>
-
-   ![预览](/docs/preview.png)
-
-   </details>
-
-如果需要导出多个账号的数据，可以点击旁边的加号按钮。
-
-然后游戏切换的新账号，再打开祈愿历史记录，工具再点击“加载数据”按钮。
+   如果没出什么问题的话，你会看到正在读取数据的提示
 
 ## Devlopment
 
